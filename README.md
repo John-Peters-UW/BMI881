@@ -6,3 +6,4 @@
 - 10/8/24 [Mammograms](https://github.com/John-Peters-UW/BMI881/blob/main/mammogram.md)
 - 10/15/24 [Propensity](https://github.com/John-Peters-UW/BMI881/blob/main/propensity.md)
 - 10/17/24 [Homework 1](https://github.com/John-Peters-UW/BMI881/blob/main/homework1/hwk1.md)
+- 10/22/24 [Skin Cancer](https://github.com/John-Peters-UW/BMI881/blob/main/skin_cancer.md)
