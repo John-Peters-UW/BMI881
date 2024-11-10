@@ -9,3 +9,4 @@
 - 10/22/24 [Skin Cancer](https://github.com/John-Peters-UW/BMI881/blob/main/skin_cancer.md)
 - 10/29/24 [Two Cultures](https://github.com/John-Peters-UW/BMI881/blob/main/two_cultures.md)
 - 11/4/24 [fMRI False Positives](https://github.com/John-Peters-UW/BMI881/blob/main/fmri_pvalues.md)
+- 11/9/24 [50 Years of Data Science](https://github.com/John-Peters-UW/BMI881/blob/main/50_years.md)
