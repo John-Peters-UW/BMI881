@@ -1,4 +1,4 @@
-#  Propensity
+#  FWER
 
 ### John Peters
 
