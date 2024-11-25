@@ -14,7 +14,7 @@ We then find the precision with: $\frac{TP}{(TP + FP)}$ = $\frac{7.2}{(7.2 + 19,
 
 ## **2:** Suppose sensitivity = specificity. What would they have to be to achieve positive predictive value = 50% when prevalence is 9/100,000?
 
-Using the equations we defined above (without needing to use the population, because we want the rate), we see that precision (PPV) = $\frac{TP}{(TP + FP)}$ = (prevalence * sensitivity) / ((prevalence * sensitivity) + (1 - prevalence) * (1 - specificity))
+Using the equations we defined above, we see that precision (positive predictive value) = $\frac{TP}{(TP + FP)}$ = (prevalence * sensitivity) / ((prevalence * sensitivity) + (1 - prevalence) * (1 - specificity))
 
 Because sensitivity = specificity we will define them both as x, and fill in the rest of the values:
 
