@@ -11,3 +11,4 @@
 - 11/4/24 [fMRI False Positives](https://github.com/John-Peters-UW/BMI881/blob/main/fmri_pvalues.md)
 - 11/9/24 [50 Years of Data Science](https://github.com/John-Peters-UW/BMI881/blob/main/50_years.md)
 - 11/9/24 [False Discovery Rate](https://github.com/John-Peters-UW/BMI881/blob/main/FWER.md)
+- 11/26/24 [Homework 2](https://github.com/John-Peters-UW/BMI881/blob/main/homework2/homework2.md)
