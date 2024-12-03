@@ -13,3 +13,4 @@
 - 11/9/24 [False Discovery Rate](https://github.com/John-Peters-UW/BMI881/blob/main/FWER.md)
 - 11/26/24 [Homework 2](https://github.com/John-Peters-UW/BMI881/blob/main/homework2/homework2.md)
 - 11/26/24 [Bootstrapping](https://github.com/John-Peters-UW/BMI881/blob/main/bootstrapping.md)
+- 12/2/24 [Gene Enrichment](https://github.com/John-Peters-UW/BMI881/blob/main/gene_enrichment.md)
