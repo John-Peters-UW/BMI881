@@ -14,3 +14,4 @@
 - 11/26/24 [Homework 2](https://github.com/John-Peters-UW/BMI881/blob/main/homework2/homework2.md)
 - 11/26/24 [Bootstrapping](https://github.com/John-Peters-UW/BMI881/blob/main/bootstrapping.md)
 - 12/2/24 [Gene Enrichment](https://github.com/John-Peters-UW/BMI881/blob/main/gene_enrichment.md)
+- 12/10/24 [Batch Effect](https://github.com/John-Peters-UW/BMI881/blob/main/batch_effect.md)
